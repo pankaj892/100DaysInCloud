@@ -10,20 +10,17 @@
 5. Update your main README to link back to your Day Journey article
 4. If you need ideas go to [#100DaysOfCloudIdeas](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas)
 
-## How to use this template:
-Fill in your details where you see this icon ✍️
-We have provided a sample Day Journey entry staring at 0. You can delete this example.
 
-## [✍️ Your Name]'s Cloud Journey
+## Pankaj's Cloud Journey
 
-[✍️ Introduce yourself]
+Hello I am Pankaj a Software Engineer and currently interested in becoming a cloud engineer and working on improving my skils and knowledge on cloud.I have an AZ-900 certification from Microsoft Azure I plan to learn more about Azure and GCP.
 
-[✍️ Tell us why you started this challenge]
+I am starting this cloud journey to become efficient not just at one cloud but understand others as well and also master my linux and networking skills and also create projects to get a more hands-on feel of the cloud☁️.
 
-[✍️ Tell us where you want to be at the end of the challenge]
+At the end of this challenge I aim to land a cloud engineer role and get certified in AZ-104 and AZ-400 
 
-- [✍️ Link to your Twitter](https://twitter.com/username)
-- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/username)
+
+- [Link to my LinkedIn profile](https://www.linkedin.com/in/pankaj-biradar)
 
 ## Stepping out the door
 
