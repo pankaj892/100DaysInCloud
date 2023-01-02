@@ -13,7 +13,7 @@
 
 ## Pankaj's Cloud Journey
 
-Hello I am Pankaj a Software Engineer and currently interested in becoming a cloud engineer and working on improving my skils and knowledge on cloud.I have an AZ-900 certification from Microsoft Azure I plan to learn more about Azure and GCP.
+Hello I am Pankaj a Software Engineer and currently interested in becoming a cloud engineer and working on improving my skills and knowledge on cloud.I have an AZ-900 certification from Microsoft Azure I plan to learn more about Azure and GCP.
 
 I am starting this cloud journey to become efficient not just at one cloud but understand others as well and also master my linux and networking skills and also create projects to get a more hands-on feel of the cloud☁️.
 
