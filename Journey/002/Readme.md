@@ -1,52 +1,30 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
-
-# New post title here
+# Introduction to Linux and Bash
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+Linux is an OS used by lot of companies and every linux OS comes with an application called terminal which can be used to perform different tasks using commands and we can switch different shells in terminal
 
 ## Prerequisite
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+Basic understanding of a computer and familiarity with Linux is a plus but not a prerequisite
 
-## Use Case
-
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
 
 ## Cloud Research
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+I researched on the diferent shells in Linux like Bash,Korn,Cshell etc. also I would suggest beginners to learn how to install a linux on a computer it would be a good earning experience
 
 ## Try yourself
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
+[Here's a good tutorial on Bash ](https://www.youtube.com/watch?v=qALScO3E61I)
 
 ## ☁️ Cloud Outcome
 
-✍️ (Result) Describe your personal outcome, and lessons learned.
+I learnt about Bash and important commands to be used in linux
 
 ## Next Steps
 
-✍️ Describe what you think you think you want to do next.
+I will learn more commands to use with linux and get a more hands-on approach
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
+[link](https://www.linkedin.com/feed/update/urn:li:share:7015699507938033664/)
