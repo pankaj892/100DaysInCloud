@@ -15,7 +15,7 @@ I researched on the diferent shells in Linux like Bash,Korn,Cshell etc. also I w
 
 ## Try yourself
 
-[Here's a good tutorial on Bash ](https://www.youtube.com/watch?v=qALScO3E61I)
+[Here's a good tutorial on Bash](https://www.youtube.com/watch?v=qALScO3E61I)
 
 ## ☁️ Cloud Outcome
 
