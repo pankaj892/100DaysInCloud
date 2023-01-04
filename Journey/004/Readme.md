@@ -22,6 +22,10 @@ I helped me do more tasks in a single line in terminal rather than repeating the
 
 I'll do more examples on them for a few days before moving onto networking and stuff.
 
+## Resources
+
+[Bash Scripting course by nullbyte](https://www.youtube.com/watch?v=PPQ8m8xQAs8)
+
 ## Social Proof
 
 ✍️ Show that you shared your process on Twitter or LinkedIn
