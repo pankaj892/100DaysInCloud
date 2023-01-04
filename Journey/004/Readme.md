@@ -7,7 +7,7 @@ I learnt linux basics and also launched VM in the cloud but what if I want to pr
 ## Prerequisite
 
 You need to know linux and its commands the basic ones would be just fine.
-
+Also having knowledge of a programming language and the basics like conditionals and condition checking statements is a plus it would help you to understand bash scripting easily.
 
 ## Cloud Research
 
