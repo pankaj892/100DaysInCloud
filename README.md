@@ -30,7 +30,7 @@ At the end of this challenge I aim to land a cloud engineer role and get certifi
 - [ ] ☁️ 4 > [Bash Scripting](Journey/004/Readme.md)
 - [ ] ☁️ 5 > [Shell Scripts](Journey/005/Readme.md)
 - [ ] ☁️ 6 > [Shell Script and Github](Journey/006/Readme.md)
-- [ ] ☁️ 7 > [](Journey/007/Readme.md)
+- [ ] ☁️ 7 > [Git and Version Control](Journey/007/Readme.md)
 - [ ] ☁️ 8 > [](Journey/008/Readme.md)
 - [ ] ☁️ 9 > [](Journey/009/Readme.md)
 - [ ] ☁️ 10 > [](Journey/010/Readme.md)
