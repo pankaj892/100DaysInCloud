@@ -33,7 +33,7 @@ At the end of this challenge I aim to land a cloud engineer role and get certifi
 - [ ] ☁️ 7 > [Git and Version Control](Journey/007/Readme.md)
 - [ ] ☁️ 8 > [Git status](Journey/008/Readme.md)
 - [ ] ☁️ 9 > [Networking Basics](Journey/009/Readme.md)
-- [ ] ☁️ 10 > [](Journey/010/Readme.md)
+- [ ] ☁️ 10 > [Lamp in the Cloud](Journey/010/Readme.md)
 
 ## Walking down the road
 
