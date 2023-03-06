@@ -18,7 +18,7 @@ I have created a tutorial [here](https://dev.to/pankaj892/lamp-stack-in-microsof
 
 ## ☁️ Cloud Outcome
 
-I learnt a lot during performing these steps I even failed in some but little bit of goggling and troubleshooting helped me a lot.
+I learnt a lot during performing these steps I even failed in some but little bit of googling and troubleshooting helped me a lot.
 Highly recommend this for beginners as you can use your linux knowledge.
 
 
