@@ -1,52 +1,18 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
-
-# New post title here
-
-## Introduction
-
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
-
-## Prerequisite
-
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
-
-## Use Case
-
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+# Containerized Apps with Docker
 
 ## Cloud Research
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+- ✍️ I started off with Dockers and completed the labs on Docker there is also a container orchestration tool Docker Swarm which can be used to manage containers but I thought if Swarm exists then why to use Kubernetes. This question led me to search about Kubernetes and I found out that Kubernetes is more advanced and is used in production environments. So I decided to learn about Kubernetes and got myself enrolled in a course on Edx which is taught by linux foundation.
 
-## Try yourself
+[Link to the course](https://www.edx.org/course/introduction-to-kubernetes)
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
 
-### Step 1 — Summary of Step
+I created a project using Docker which starts and express.js app on a server and I also created a Dockerfile to build the image and run and used Github Actions to deploy it to Azure Container Instances(ACI). I tried to use terraform for IaC but couldn't do it so will try to do it in the future.
 
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
-
-## Next Steps
-
-✍️ Describe what you think you think you want to do next.
+[Link to the project](https://github.com/pankaj892/Express-on-Azure)
 
 ## Social Proof
 
 ✍️ Show that you shared your process on Twitter or LinkedIn
 
-[link](link)
+[link](https://www.linkedin.com/feed/update/urn:li:share:7053283523146776576/)
