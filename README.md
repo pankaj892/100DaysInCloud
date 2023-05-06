@@ -44,7 +44,7 @@ At the end of this challenge I aim to land a cloud engineer role and get certifi
 - [ ] ☁️ 15 > [Getting started with Azure](Journey/015/Readme.md)
 - [ ] ☁️ 16 > [Introduction to Containers](Journey/016/Readme.md)
 - [ ] ☁️ 17 > [Containerized Apps with Docker](Journey/017/Readme.md)
-- [ ] ☁️ 18 > [](Journey/018/Readme.md)
+- [ ] ☁️ 18 > [Kubernetes/K8s](Journey/018/Readme.md)
 - [ ] ☁️ 19 > [](Journey/019/Readme.md)
 - [ ] ☁️ 20 > [](Journey/020/Readme.md)
 
