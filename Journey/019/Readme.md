@@ -1,52 +1,30 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
-
-# New post title here
+# Kubernetes Architecture
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+✍️ I completed docker and understood the concept of containerization. Now I want to learn about Kubernetes. I want to understand the architecture of Kubernetes and how it works.
 
 ## Prerequisite
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+✍️ Basic understanding of docker and containerization.
 
 ## Use Case
-
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+- ✍️ Docker is used to create containers it is great when you have a single container but when you have a large number of containers then Kubernetes is the best option. Kubernetes is used to manage the containers. It is used to deploy, scale and manage the containers. Due to its architecture it is highly available and scalable. Another advantage of Kubernetes is that it is cloud agnostic. It can be deployed on any cloud provider. It is also used to manage the containers on-premises.
 
 ## Cloud Research
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
-
-## Try yourself
-
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
+- ✍️ I went through the official docs of Kubernetes to understand the architecture of Kubernetes. I also went through the official docs of Docker to understand the difference between Docker and Kubernetes.
 
 ## ☁️ Cloud Outcome
 
-✍️ (Result) Describe your personal outcome, and lessons learned.
+✍️ Kubernetes has a kube-apiserver which manages most of the part for Kubernetes. It is the front end for the Kubernetes control plane. It is used to manage the Kubernetes cluster. Communication between kubelet present in pod and kube-apiserver in control plane happens through API calls. I managed to understand the architecture of Kubernetes and how it works. I did create a cluster locally using minikube and deployed a sample application on it. i faced a lot of prolems like network not working, minikube not starting, etc. I managed to solve all the problems and deployed the application successfully.
 
 ## Next Steps
 
-✍️ Describe what you think you think you want to do next.
+✍️ I will be learning more about Kubernetes and will be deploying more applications on it. I will also be learning about the different components of Kubernetes and how they work.
 
 ## Social Proof
 
 ✍️ Show that you shared your process on Twitter or LinkedIn
 
-[link](link)
+[link](https://www.linkedin.com/posts/pankaj-biradar_100daysofcloud-kubernetes-architecture-activity-7085287664505032704-MGkq/)
