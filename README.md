@@ -51,7 +51,7 @@ At the end of this challenge I aim to land a cloud engineer role and get certifi
 ## Crossing the bridge
 
 - [ ] ☁️ 21 > [Container Runtime Interface (CRI)](Journey/021/Readme.md)
-- [ ] ☁️ 22 > [](Journey/022/Readme.md)
+- [ ] ☁️ 22 > [Probes in K8s](Journey/022/Readme.md)
 - [ ] ☁️ 23 > [](Journey/023/Readme.md)
 - [ ] ☁️ 24 > [](Journey/024/Readme.md)
 - [ ] ☁️ 25 > [](Journey/025/Readme.md)
