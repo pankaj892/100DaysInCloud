@@ -54,7 +54,7 @@ At the end of this challenge I aim to land a cloud engineer role and get certifi
 - [ ] ☁️ 22 > [Probes in K8s](Journey/022/Readme.md)
 - [ ] ☁️ 23 > [CRDs in K8s](Journey/023/Readme.md)
 - [ ] ☁️ 24 > [Shhh.. its a secret](Journey/024/Readme.md)
-- [ ] ☁️ 25 > [](Journey/025/Readme.md)
+- [ ] ☁️ 25 > [Resource Quotas in K8s](Journey/025/Readme.md)
 - [ ] ☁️ 26 > [](Journey/026/Readme.md)
 - [ ] ☁️ 27 > [](Journey/027/Readme.md)
 - [ ] ☁️ 28 > [](Journey/028/Readme.md)
