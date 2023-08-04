@@ -58,7 +58,7 @@ At the end of this challenge I aim to land a cloud engineer role and get certifi
 - [ ] ☁️ 26 > [Services in K8s](Journey/026/Readme.md)
 - [ ] ☁️ 27 > [Taints & Tolerations in K8s](Journey/027/Readme.md)
 - [ ] ☁️ 28 > [Multi-Container Pods in K8s](Journey/028/Readme.md)
-- [ ] ☁️ 29 > [](Journey/029/Readme.md)
+- [ ] ☁️ 29 > [PVs in K8s](Journey/029/Readme.md)
 - [ ] ☁️ 30 > [](Journey/030/Readme.md)
 
 ## Into the bushy, thorny forest

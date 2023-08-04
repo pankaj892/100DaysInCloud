@@ -1,52 +1,30 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
-
-# New post title here
+# PVs in K8s
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+- Today I learned about PVs in K8s
 
-## Prerequisite
+- Persistent Volumes (PVs) are a way for cluster administrators to provide persistent storage to cluster users. PVs are a cluster resource just like nodes are a cluster resource. PVs are volume plugins like Volumes, but have a lifecycle independent of any individual pod that uses the PV. This API object captures the details of the implementation of the storage, be that NFS, iSCSI, or a cloud-provider-specific storage system.
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
 
 ## Use Case
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+- PVs are used to store data in a persistent manner. They are used to store data that needs to be retained even after the pod is deleted.
 
 ## Cloud Research
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
-
-## Try yourself
-
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
+- I went through the official documentation of PVs in K8s. I also went through some youtube videos to understand the concept better. 
 
 ## ☁️ Cloud Outcome
 
-✍️ (Result) Describe your personal outcome, and lessons learned.
+✍️ PVs help in decoupling the storage from the pods. This helps in retaining the data even after the pod is deleted. PVs are used to store data in a persistent manner. They are used to store data that needs to be retained even after the pod is deleted. PVs are cluster resources and are independent of pods. PVs are volume plugins like Volumes, but have a lifecycle independent of any individual pod that uses the PV. This API object captures the details of the implementation of the storage, be that NFS, iSCSI, or a cloud-provider-specific storage system. PVs are used to store data in a persistent manner. They are used to store data that needs to be retained even after the pod is deleted. PVs are cluster resources and are independent of pods. PVs are volume plugins like Volumes, but have a lifecycle independent of any individual pod that uses the PV. This API object captures the details of the implementation of the storage, be that NFS, iSCSI, or a cloud-provider-specific storage system.
 
 ## Next Steps
 
-✍️ Describe what you think you think you want to do next.
+✍️ I plan to learn more about PVs and how they are used in K8s. I also plan to learn about PVCs and how they are used in K8s.
 
 ## Social Proof
 
 ✍️ Show that you shared your process on Twitter or LinkedIn
 
-[link](link)
+[link](https://www.linkedin.com/feed/update/urn:li:share:7093289975345004544/)
