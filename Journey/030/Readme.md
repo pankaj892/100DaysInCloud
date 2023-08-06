@@ -1,52 +1,34 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
-
-# New post title here
+# PVCs in K8s
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+✍️ Today I learned about PVCs in K8s.
 
 ## Prerequisite
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+✍️ Knowledge of PVs in K8s is required. Refer to [Journey\029\Readme.md](../029/Readme.md) for more details.
 
 ## Use Case
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+- PVCs are used to store data in a persistent manner. They are used to store data that needs to be retained even after the pod is deleted. 
+- PVCs are cluster resources and are independent of pods. PVCs are volume plugins like Volumes, but have a lifecycle independent of any individual pod that uses the PVC. This API object captures the details of the implementation of the storage, be that NFS, iSCSI, or a cloud-provider-specific storage system.
 
 ## Cloud Research
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
-
-## Try yourself
-
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
+- I went through the official documentation of PVCs in K8s. I also went through some youtube videos to understand the concept better.
+- I also went through the official documentation of [PVs](https://kubernetes.io/docs/concepts/storage/persistent-volumes/) in K8s.
 
 ## ☁️ Cloud Outcome
 
-✍️ (Result) Describe your personal outcome, and lessons learned.
+- PVCs help in decoupling the storage from the pods. This helps in retaining the data even after the pod is deleted.
+- By default, PVCs are bound to PVs with the same storage class. If a PV with the same storage class is not available, then the PVC remains unbound.
 
 ## Next Steps
 
-✍️ Describe what you think you think you want to do next.
+✍️ After learning about PVs and PVCs, I plan to learn about StatefulSets in K8s.
 
 ## Social Proof
 
 ✍️ Show that you shared your process on Twitter or LinkedIn
 
-[link](link)
+[link](https://www.linkedin.com/feed/update/urn:li:share:7093995499413770240/ )
