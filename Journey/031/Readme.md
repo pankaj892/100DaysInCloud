@@ -1,52 +1,43 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
-
-# New post title here
+# Namespaces in K8s
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
-
-## Prerequisite
-
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+- To avoid name collision, we can use namespaces to create virtual clusters within a physical cluster.
 
 ## Use Case
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+- When we have multiple teams working on the same cluster, we can use namespaces to separate the resources.
+- We can also use namespaces to separate the resources for different environments, such as dev, test, and prod.
+- We can also use namespaces to separate the resources for different customers.
+- Namespaces are a way to divide cluster resources between multiple users (via resource quota).
 
 ## Cloud Research
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+- I created a namespace called `dev` and deployed a pod in it. It worked as expected. I was able to access the pod using the service IP.
+- I was able to create a namespace using the following command:
 
-## Try yourself
+```bash
+kubectl create namespace dev
+```
+- I was able to deploy a pod in the namespace using the following command:
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
+```bash
+kubectl run nginx --image=nginx --namespace=dev
+```
+- I was able to access the pod using the following command:
 
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
+```bash
+kubectl port-forward nginx 8080:80 --namespace=dev
+```
+- I went through the [official documentation](https://kubernetes.io/docs/concepts/overview/working-with-objects/namespaces/) to learn more about namespaces.
 
 ## ☁️ Cloud Outcome
 
-✍️ (Result) Describe your personal outcome, and lessons learned.
-
-## Next Steps
-
-✍️ Describe what you think you think you want to do next.
+- I learned about namespaces in K8s. I learned how to create a namespace, deploy a pod in it, and access the pod. I also learned about the use cases of namespaces.
+- I learned that the default namespace is `default`. I learned that we can use the `--namespace` flag to specify the namespace while creating a resource. I learned that we can use the `--all-namespaces` flag to list the resources in all namespaces.
 
 ## Social Proof
 
 ✍️ Show that you shared your process on Twitter or LinkedIn
 
-[link](link)
+[link](https://www.linkedin.com/feed/update/urn:li:share:7094725356472995840/)
