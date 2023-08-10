@@ -64,7 +64,7 @@ At the end of this challenge I aim to land a cloud engineer role and get certifi
 ## Into the bushy, thorny forest
 
 - [ ] ☁️ 31 > [Namespaces in K8s](Journey/031/Readme.md)
-- [ ] ☁️ 32 > [](Journey/032/Readme.md)
+- [ ] ☁️ 32 > [Network Policies in K8s](Journey/032/Readme.md)
 - [ ] ☁️ 33 > [](Journey/033/Readme.md)
 - [ ] ☁️ 34 > [](Journey/034/Readme.md)
 - [ ] ☁️ 35 > [](Journey/035/Readme.md)
