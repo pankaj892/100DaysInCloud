@@ -1,52 +1,41 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
-
-# New post title here
+# Ingress Controller in K8s
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+✍️ Today you will learn about ingress controllers in Kubernetes.
 
 ## Prerequisite
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+✍️ An understanding of Kubernetes and its networking concepts.
 
 ## Use Case
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+- You can use ingress controllers to route the traffic to the pods in a Kubernetes cluster.
+- You can use ingress controllers to route the traffic to the pods based on the host name and path and TLS.
 
 ## Cloud Research
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+- I went through the [official documentation](https://kubernetes.io/docs/concepts/services-networking/ingress-controllers/) to learn more about ingress controllers.
 
-## Try yourself
+- There are many ingress controllers available. You can use the one that suits your needs. You can find the list of ingress controllers [here](https://kubernetes.io/docs/concepts/services-networking/ingress-controllers/#additional-controllers).
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
+- I deployed an ingress controller in my Kubernetes cluster using the following command:
 
-### Step 1 — Summary of Step
+```bash
+kubectl apply -f https://raw.githubusercontent.com/kubernetes/ingress-nginx/controller-v0.44.0/deploy/static/provider/cloud/deploy.yaml
+```
+You can find the latest version of the ingress controller [here](https://kubernetes.github.io/ingress-nginx/deploy/#provider-specific-steps).
 
-![Screenshot](https://via.placeholder.com/500x300)
+- I created a service and a deployment for a pod and exposed the service using the ingress controller. I was able to access the pod using the host name and path.
 
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
+- I went through the [official documentation](https://kubernetes.io/docs/concepts/services-networking/ingress/#tls) to learn more about TLS.
 
 ## ☁️ Cloud Outcome
 
-✍️ (Result) Describe your personal outcome, and lessons learned.
-
-## Next Steps
-
-✍️ Describe what you think you think you want to do next.
+- I was able to deploy an ingress controller in my Kubernetes cluster and access the pod using the host name and path.
 
 ## Social Proof
 
 ✍️ Show that you shared your process on Twitter or LinkedIn
 
-[link](link)
+[link](https://www.linkedin.com/posts/pankaj-biradar_100daysofcloud-kubernetes-ingresscontrollers-activity-7096543982213623808-R5Bc/)
