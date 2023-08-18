@@ -67,7 +67,7 @@ At the end of this challenge I aim to land a cloud engineer role and get certifi
 - [ ] ☁️ 32 > [Network Policies in K8s](Journey/032/Readme.md)
 - [ ] ☁️ 33 > [Ingress Controllers](Journey/033/Readme.md)
 - [ ] ☁️ 34 > [RBAC in K8s](Journey/034/Readme.md)
-- [ ] ☁️ 35 > [](Journey/035/Readme.md)
+- [ ] ☁️ 35 > [HELM](Journey/035/Readme.md)
 - [ ] ☁️ 36 > [](Journey/036/Readme.md)
 - [ ] ☁️ 37 > [](Journey/037/Readme.md)
 - [ ] ☁️ 38 > [](Journey/038/Readme.md)
