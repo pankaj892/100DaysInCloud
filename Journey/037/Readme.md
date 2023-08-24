@@ -1,52 +1,56 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
-
-# New post title here
+# HPA in K8s
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
-
-## Prerequisite
-
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+- HPA stands for Horizontal Pod Autoscaler
 
 ## Use Case
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+- HPA is used to automatically scale the number of pods in a deployment based on the CPU utilization of the pods
+- HPA can be used to automatically scale the number of pods in a deployment based on the memory utilization of the pods
+- HPA is used to automatically scale the number of pods in a deployment based on the custom metrics of the pods
 
 ## Cloud Research
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
-
-## Try yourself
-
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
+- HPA is set in the deployment spec
+- HPA can be set for the deployment using the `autoscaling/v1` API version
+- I went through the [K8s documentation](https://kubernetes.io/docs/tasks/run-application/horizontal-pod-autoscale/) on HPA
+- Here is the deployment spec I used to set the HPA for the deployment
+```yaml
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: php-apache
+  labels:
+    app: php-apache
+spec:
+    replicas: 1
+    selector:
+        matchLabels:
+        app: php-apache
+    template:
+        metadata:
+        labels:
+            app: php-apache
+        spec:
+        containers:
+        - name: php-apache
+            image: k8s.gcr.io/hpa-example
+            ports:
+            - containerPort: 80
+            resources:
+            limits:
+                cpu: 500m
+            requests:
+                cpu: 200m
+```
 
 ## ☁️ Cloud Outcome
 
-✍️ (Result) Describe your personal outcome, and lessons learned.
-
-## Next Steps
-
-✍️ Describe what you think you think you want to do next.
+- I was able to set the HPA for a deployment using the `autoscaling/v1` API version
 
 ## Social Proof
 
 ✍️ Show that you shared your process on Twitter or LinkedIn
 
-[link](link)
+[link](https://www.linkedin.com/feed/update/urn:li:share:7100503522747551747/)
