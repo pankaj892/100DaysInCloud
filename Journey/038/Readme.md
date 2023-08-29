@@ -1,52 +1,37 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
-
-# New post title here
+# CI/CD
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+- Today we will learn about CI/CD
+- CI/CD stands for Continuous Integration and Continuous Delivery/Deployment
+- CI/CD is a set of practices that automates the process of building, testing, and deploying software.
 
 ## Prerequisite
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+✍️ Some knowledge about cloud computing
 
 ## Use Case
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+- We can use CI/CD to automate the process of building and deploying our application.
+- We can use CI/CD to automate the process of testing our application.
 
 ## Cloud Research
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
-
-## Try yourself
-
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
+- Here are the resources I used to learn about CI/CD:
+  - [What is CI/CD?](https://www.redhat.com/en/topics/devops/what-is-ci-cd)
+- Learn about [Jenkins](https://www.jenkins.io/).
+- A CI/CD pipeline is made up of a series of steps that automate the process of software delivery.
+- An example of a CI/CD pipeline is:
+  - Build
+  - Test
+  - Deploy
 
 ## ☁️ Cloud Outcome
 
-✍️ (Result) Describe your personal outcome, and lessons learned.
-
-## Next Steps
-
-✍️ Describe what you think you think you want to do next.
+- I was able to learn about CI/CD and how it can be used to automate the process of building, testing, and deploying software.
 
 ## Social Proof
 
 ✍️ Show that you shared your process on Twitter or LinkedIn
 
-[link](link)
+[link](https://www.linkedin.com/feed/update/urn:li:share:7102350967785869313/)
