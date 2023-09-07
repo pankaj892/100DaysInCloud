@@ -72,7 +72,7 @@ At the end of this challenge I aim to land a cloud engineer role and get certifi
 - [ ] ☁️ 37 > [HPA in K8s](Journey/037/Readme.md)
 - [ ] ☁️ 38 > [CI/CD](Journey/038/Readme.md)
 - [ ] ☁️ 39 > [More about CI](Journey/039/Readme.md)
-- [ ] ☁️ 40 > [](Journey/040/Readme.md)
+- [ ] ☁️ 40 > [Moving to CD](Journey/040/Readme.md)
 
 ## Trekking the dunes
 
