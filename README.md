@@ -77,7 +77,7 @@ At the end of this challenge I aim to land a cloud engineer role and get certifi
 ## Trekking the dunes
 
 - [ ] ☁️ 41 > [Storage in Cloud](Journey/041/Readme.md)
-- [ ] ☁️ 42 > [](Journey/042/Readme.md)
+- [ ] ☁️ 42 > [Virtual Networks in Cloud](Journey/042/Readme.md)
 - [ ] ☁️ 43 > [](Journey/043/Readme.md)
 - [ ] ☁️ 44 > [](Journey/044/Readme.md)
 - [ ] ☁️ 45 > [](Journey/045/Readme.md)

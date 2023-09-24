@@ -1,52 +1,30 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
-
-# New post title here
+# Virtual Networks in Cloud
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+- Today, I will be learning about Virtual Networks in Cloud.
 
 ## Prerequisite
-
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
-
+- Basic understanding of Cloud Computing
 ## Use Case
-
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
-
+- A good use case for Virtual Networks in Cloud is to create a secure network for your cloud resources.
+- You can create a virtual network in Azure and then create a virtual machine in that network.
 ## Cloud Research
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+- I learned that Virtual Networks in Cloud are used to create a secure network for your cloud resources.
+- I went through the documentation on Virtual Networks in Azure and learned how to create a virtual network in Azure.
+- I also learned how to create a virtual machine in Azure and connect it to the virtual network.
 
 ## Try yourself
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
+- [Create a virtual network using the Azure portal](https://docs.microsoft.com/en-us/azure/virtual-network/quick-create-portal)
 
 ## ☁️ Cloud Outcome
 
-✍️ (Result) Describe your personal outcome, and lessons learned.
-
-## Next Steps
-
-✍️ Describe what you think you think you want to do next.
+- I was able to create a virtual network in Azure and connect a virtual machine to it.
 
 ## Social Proof
 
 ✍️ Show that you shared your process on Twitter or LinkedIn
 
-[link](link)
+[link](https://www.linkedin.com/feed/update/urn:li:share:7111757054511349760/)
