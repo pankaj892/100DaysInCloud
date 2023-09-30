@@ -80,7 +80,7 @@ At the end of this challenge I aim to land a cloud engineer role and get certifi
 - [ ] ☁️ 42 > [Virtual Networks in Cloud](Journey/042/Readme.md)
 - [ ] ☁️ 43 > [VPNs in Cloud](Journey/043/Readme.md)
 - [ ] ☁️ 44 > [Peering Connections](Journey/044/Readme.md)
-- [ ] ☁️ 45 > [](Journey/045/Readme.md)
+- [ ] ☁️ 45 > [NSGs in Cloud](Journey/045/Readme.md)
 - [ ] ☁️ 46 > [](Journey/046/Readme.md)
 - [ ] ☁️ 47 > [](Journey/047/Readme.md)
 - [ ] ☁️ 48 > [](Journey/048/Readme.md)
