@@ -1,52 +1,39 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
-
-# New post title here
+# Firewalls in Cloud
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+- Firewalls are the first line of defense in a network.
+- They are used to filter traffic based on a set of rules.
 
 ## Prerequisite
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+- Basic understanding of networking & security
 
 ## Use Case
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+- Firewalls are used to protect the network from unauthorized access.
+- A firewall can be used to block traffic from a specific IP address or a range of IP addresses.
+- Firewalls can also be used to block traffic based on the port number.
+- A use case for firewalls is to block traffic from a specific country or region.
 
 ## Cloud Research
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
-
-## Try yourself
-
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
+- I have learned that firewalls are used to protect the network from unauthorized access.
+- I went through the documentation of AWS, Azure and GCP to understand how firewalls work in each of these clouds.
+- I learnt about Azure Firewall from the documentation and how it can be used to protect the network from unauthorized access.
+- Here is a link to the documentation of Azure Firewall: [Azure Firewall](https://docs.microsoft.com/en-us/azure/firewall/overview)
+- Here is a tutorial on how to create a firewall rule in Azure: [Create a firewall rule](https://docs.microsoft.com/en-us/azure/firewall/tutorial-firewall-rule-portal)
 
 ## ☁️ Cloud Outcome
 
-✍️ (Result) Describe your personal outcome, and lessons learned.
+- I have learnt about Azure Firewall and how it can be used to protect the network from unauthorized access.
 
 ## Next Steps
 
-✍️ Describe what you think you think you want to do next.
+- I will learn more about Azure Firewall and how it can be used to protect the network from unauthorized access.
 
 ## Social Proof
 
 ✍️ Show that you shared your process on Twitter or LinkedIn
 
-[link](link)
+[link](https://www.linkedin.com/feed/update/urn:li:share:7114273439888146432/)
