@@ -1,52 +1,69 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
-
-# New post title here
+# Load Balancers
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+Load Balancers are used to distribute traffic across multiple servers. They are used to increase the availability of applications and websites. They are also used to improve the performance of applications and websites by distributing the load across multiple servers.
 
 ## Prerequisite
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+- Azure Account
+- Azure CLI
+- Cloud Knowledge
 
 ## Use Case
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+- Load Balancers are used to distribute traffic across multiple servers.
+- They are used to increase the availability of applications and websites.
+- They are also used to improve the performance of applications and websites by distributing the load across multiple servers.
 
 ## Cloud Research
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+- I learnt about the different types of load balancers in Azure.
+- In Azure, there are 2 types of load balancers:
+  - Application Gateway
+  - Load Balancer
+
+### Application Gateway
+
+- Application Gateway is a Layer-7 (HTTP, HTTPS) load balancer that provides application-level routing and load balancing services that let you build a scalable and highly-available web front end in Azure.
+
+### Load Balancer
+
+- Azure Load Balancer is a Layer-4 (TCP, UDP) load balancer that provides high availability by distributing incoming traffic among healthy VMs. A load balancer health probe monitors a given port on each VM and only distributes traffic to an operational VM.
 
 ## Try yourself
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
+- You can create a load balancer in Azure using the Azure CLI command below:
 
-### Step 1 — Summary of Step
+```bash
+az network lb create \
+  --resource-group [RESOURCE GROUP NAME] \
+  --name myLoadBalancer \
+  --sku Standard \
+  --location [LOCATION]
+```
 
-![Screenshot](https://via.placeholder.com/500x300)
+- You can create a load balancer in Azure using the Azure Portal by following the steps below:
+  - Search for Load Balancer in the Azure Portal.
+  - Click on Add.
+  - Fill in the details and click on Review + Create.
+  - Click on Create.
 
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
+- You can go through the Microsoft Learn Module below to learn more about Load Balancers in Azure:
+- [Load Balancing in Azure](https://docs.microsoft.com/en-us/learn/modules/load-balancing-in-azure/)
+- [Load Balancer](https://docs.microsoft.com/en-us/azure/load-balancer/load-balancer-overview)
 
 ## ☁️ Cloud Outcome
 
-✍️ (Result) Describe your personal outcome, and lessons learned.
+- I learnt about the different types of load balancers in Azure.
+- I learnt how to create a load balancer in Azure using the Azure CLI and Azure Portal.
 
 ## Next Steps
 
-✍️ Describe what you think you think you want to do next.
+- I will continue to learn more about Load Balancers in Azure.
 
 ## Social Proof
 
 ✍️ Show that you shared your process on Twitter or LinkedIn
 
-[link](link)
+[link](https://www.linkedin.com/feed/update/urn:li:share:7115007365594152960/)
