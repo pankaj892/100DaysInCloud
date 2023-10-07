@@ -83,7 +83,7 @@ At the end of this challenge I aim to land a cloud engineer role and get certifi
 - [ ] ☁️ 45 > [NSGs in Cloud](Journey/045/Readme.md)
 - [ ] ☁️ 46 > [Firewalls in Cloud](Journey/046/Readme.md)
 - [ ] ☁️ 47 > [Load Balancers](Journey/047/Readme.md)
-- [ ] ☁️ 48 > [](Journey/048/Readme.md)
+- [ ] ☁️ 48 > [Bastion](Journey/048/Readme.md)
 - [ ] ☁️ 49 > [](Journey/049/Readme.md)
 - [ ] ☁️ 50 > [](Journey/050/Readme.md)
 
