@@ -1,52 +1,46 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
-
-# New post title here
+# DNS in the Cloud
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+- DNS is a service that translates domain names to IP addresses and vice versa.
+- DNS is a distributed database that contains records for each domain name.
 
 ## Prerequisite
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+- Basic understanding of DNS
+- Basic understanding of Cloud
 
 ## Use Case
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+- DNS is used to resolve IP addresses to domain names.
+- A good example is when you type in a domain name in your browser, the DNS server will resolve the domain name to an IP address and then connect to the IP address.
 
 ## Cloud Research
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+- DNS is a service that translates domain names to IP addresses and vice versa.
+- I have used DNS in the past but never really understood how it works.
+- I tried to understand how DNS works and how it is implemented in the cloud.
+- I went through the documentation of AWS and Azure to understand how DNS works in the cloud.
 
 ## Try yourself
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
+- I tried to create a DNS zone in Azure and AWS and tried to understand how it works.
+- You can follow the documentation of Azure and AWS to create a DNS zone.
+- For Azure follow this [link](https://docs.microsoft.com/en-us/azure/dns/dns-getstarted-portal)
+- For AWS follow this [link](https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/Welcome.html)
 
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
 
 ## ☁️ Cloud Outcome
 
-✍️ (Result) Describe your personal outcome, and lessons learned.
+- I was able to create a DNS zone in Azure and AWS.
+- I was able to understand how DNS works in the cloud.
 
 ## Next Steps
 
-✍️ Describe what you think you think you want to do next.
+- I will try to create a DNS zone in GCP and try to understand how it works.
 
 ## Social Proof
 
 ✍️ Show that you shared your process on Twitter or LinkedIn
 
-[link](link)
+[link](https://www.linkedin.com/feed/update/urn:li:share:7118278820880678912/)
