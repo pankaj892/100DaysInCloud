@@ -84,7 +84,7 @@ At the end of this challenge I aim to land a cloud engineer role and get certifi
 - [ ] ☁️ 46 > [Firewalls in Cloud](Journey/046/Readme.md)
 - [ ] ☁️ 47 > [Load Balancers](Journey/047/Readme.md)
 - [ ] ☁️ 48 > [Bastion](Journey/048/Readme.md)
-- [ ] ☁️ 49 > [](Journey/049/Readme.md)
+- [ ] ☁️ 49 > [DNS in the Cloud](Journey/049/Readme.md)
 - [ ] ☁️ 50 > [](Journey/050/Readme.md)
 
 ## Winding through the canyons
