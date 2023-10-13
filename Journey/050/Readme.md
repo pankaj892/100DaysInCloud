@@ -1,52 +1,50 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
-
-# New post title here
+# CDN in Cloud
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
-
+- CDN stands for Content Delivery Network
+- It is a network of servers that deliver cached static content from websites to users based on the geographic location of the user.
+- The closer the CDN server is to the user geographically, the faster the content will be delivered to the user.
 ## Prerequisite
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+- Basic understanding of Cloud Computing
+- Basic understanding of Networking
+- Basic understanding of DNS
 
 ## Use Case
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+- CDN is used to deliver content to users based on their geographic location.
+- CDN is used to reduce latency and improve performance of websites.
+- CDN is used to reduce load on the origin server.
+- Video streaming services use CDN to deliver content to users.
 
 ## Cloud Research
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+- I went through the [Microsoft Learn](https://docs.microsoft.com/en-us/learn/modules/deliver-content-using-azure-cdn/) module on Azure CDN.
+- I went through the [AWS Documentation](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/Introduction.html) on CloudFront.
+- I went through the [Google Cloud Documentation](https://cloud.google.com/cdn/docs/overview) on Cloud CDN.
+- I went through the [Cloudflare Documentation](https://www.cloudflare.com/learning/cdn/what-is-a-cdn/) on CDN.
+- I learnt about the different types of CDN.
+- I learnt about the benefits of using CDN.
 
 ## Try yourself
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
+- I created a CDN endpoint using Azure CDN.
+- I created a CDN endpoint using CloudFront.
+- You can follow this [link](https://docs.microsoft.com/en-us/learn/modules/deliver-content-using-azure-cdn/) to create a CDN endpoint using Azure CDN.
+- You can follow this [link](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/GettingStarted.html) to create a CDN endpoint using CloudFront.
 
 ## ☁️ Cloud Outcome
 
-✍️ (Result) Describe your personal outcome, and lessons learned.
-
+- I learnt about CDN.
+- I learnt about the different types of CDN.
+- I was able to create a CDN endpoint 
 ## Next Steps
 
-✍️ Describe what you think you think you want to do next.
+- I will learn more about CDN.
 
 ## Social Proof
 
 ✍️ Show that you shared your process on Twitter or LinkedIn
 
-[link](link)
+[link](https://www.linkedin.com/feed/update/urn:li:share:7118635840112656384/)
