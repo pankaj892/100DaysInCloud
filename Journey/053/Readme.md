@@ -1,52 +1,39 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
-
-# New post title here
+# Putting the server in serverless
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+- Serverless is a cloud computing execution model where the cloud provider dynamically manages the allocation and provisioning of servers. A serverless application runs in stateless compute containers that are event-triggered, ephemeral (may last for one invocation), and fully managed by the cloud provider. Pricing is based on the number of executions rather than pre-purchased compute capacity. It is a form of utility computing.
 
 ## Prerequisite
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+- Knowledge of cloud computing
+- Knowledge of cloud computing models
+- Knowledge of cloud computing services
 
 ## Use Case
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+- A good use case for serverless is when you have a small application that you want to run in the cloud. You don't want to have to worry about the infrastructure, you just want to run your application. Serverless is a good option for this.
 
 ## Cloud Research
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+- I refer to the [AWS Serverless](https://aws.amazon.com/serverless/) page for this research.
+- I went through the documentation of AWS Lambda and AWS Fargate to understand the difference between the two.
+- I also went through the documentation of other cloud providers to understand their serverless offerings.
 
 ## Try yourself
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
+- You can follow the [AWS Lambda Tutorial](https://docs.aws.amazon.com/lambda/latest/dg/getting-started.html) to get started with AWS Lambda.
+- You can follow the Azure Functions [Quickstart](https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-first-function-vs-code?pivots=programming-language-python) to get started with Azure Functions.
+- You can follow the Google Cloud Functions [Quickstart](https://cloud.google.com/functions/docs/quickstart) to get started with Google Cloud Functions.
 
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
 
 ## ☁️ Cloud Outcome
 
-✍️ (Result) Describe your personal outcome, and lessons learned.
-
-## Next Steps
-
-✍️ Describe what you think you think you want to do next.
+- I learned about serverless and how it can be used to run applications in the cloud without having to worry about the infrastructure.
+- I also learned about the different serverless offerings from different cloud providers.
+- I learned that serverless is a good option for small applications that don't require a lot of resources.
+- I learned that serverless doesn't mean that there are no servers involved, it just means that you don't have to worry about them.
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
+[LinkedIn](https://www.linkedin.com/feed/update/urn:li:share:7126616423392571392/)
