@@ -91,7 +91,7 @@ At the end of this challenge I aim to land a cloud engineer role and get certifi
 
 - [ ] ☁️ 51 > [VMs in Cloud](Journey/051/Readme.md)
 - [ ] ☁️ 52 > [Hypervisors](Journey/052/Readme.md)
-- [ ] ☁️ 53 > [](Journey/053/Readme.md)
+- [ ] ☁️ 53 > [Putting the server in serverless](Journey/053/Readme.md)
 - [ ] ☁️ 54 > [](Journey/054/Readme.md)
 - [ ] ☁️ 55 > [](Journey/055/Readme.md)
 - [ ] ☁️ 56 > [](Journey/056/Readme.md)
