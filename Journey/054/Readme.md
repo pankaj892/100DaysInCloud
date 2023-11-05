@@ -1,52 +1,35 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
+# Types of Storage
 
-# New post title here
+# Introduction
 
-## Introduction
+- There are many different types of storage available in the cloud.
+- The type of storage you choose will depend on your needs and budget.
+- In this article, we will discuss the different types of storage available in the cloud and how they can be used.
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+# Prerequisite
 
-## Prerequisite
+- Knowledge of cloud computing
+- Knowledge of cloud computing models
+- Knowledge of cloud computing services
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+# Use Case
 
-## Use Case
+- A good use case for storage is when you have a lot of data that needs to be stored somewhere.
+- You don't want to have to worry about the infrastructure, you just want to store your data.
+- Types of storage include block storage, object storage, file storage, and archival storage.
+- Block storage is used for storing data in blocks of fixed size.
+- Object storage is used for storing data in objects of variable size.
+- File storage is used for storing data in files of variable size.
+- Archival storage is used for storing data that is not accessed frequently.
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
 
 ## Cloud Research
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
-
-## Try yourself
-
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
-
-## Next Steps
-
-✍️ Describe what you think you think you want to do next.
+- I refer to the [AWS Storage](https://aws.amazon.com/storage/) page for this research.
+- I went through the documentation of AWS S3, AWS EBS, AWS EFS, AWS FSx, AWS Glacier, AWS Storage Gateway to understand the difference between the different types of storage.
+- I also went through the documentation of other cloud providers to understand their storage offerings.
+- I also went through Microsoft Azure Storage, Google Cloud Storage, and IBM Cloud Storage.
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
+[LinkedIn](https://www.linkedin.com/feed/update/urn:li:share:7126972280592617472/)
