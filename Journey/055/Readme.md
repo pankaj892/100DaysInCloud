@@ -1,52 +1,31 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
-
-# New post title here
+# Managing Storage in Cloud
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+- Today I learnt how data is stored and manageed by cloud provider and steps taken to ensure data is safe and secure.
 
 ## Prerequisite
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+- Basic knowledge of cloud computing
+- Basic knowledge of cloud storage
 
 ## Use Case
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+- Data storage and management is one of the most important aspect of cloud computing. It is important to understand how data is stored and managed by cloud provider and steps taken to ensure data is safe and secure.
+- Disaster recovery is also an important aspect of data storage and management. It is important to understand how data is backed up and how it can be recovered in case of disaster.
 
 ## Cloud Research
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+- I went through the documentation of AWS and Azure to understand how data is stored and managed by cloud provider and steps taken to ensure data is safe and secure.
 
-## Try yourself
-
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
+- You can find the documentation [here](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/storage.html) and [here](https://docs.microsoft.com/en-us/azure/storage/common/storage-introduction).
 
 ## ☁️ Cloud Outcome
 
-✍️ (Result) Describe your personal outcome, and lessons learned.
+- I was able to understand how data is stored and managed by cloud provider and steps taken to ensure data is safe and secure.
 
-## Next Steps
-
-✍️ Describe what you think you think you want to do next.
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
 
-[link](link)
+[Linkedin](https://www.linkedin.com/feed/update/urn:li:share:7127344646225104896/)
