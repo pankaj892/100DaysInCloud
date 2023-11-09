@@ -96,7 +96,7 @@ At the end of this challenge I aim to land a cloud engineer role and get certifi
 - [ ] ☁️ 55 > [Managing Storage in Cloud](Journey/055/Readme.md)
 - [ ] ☁️ 56 > [Securing the Cloud](Journey/056/Readme.md)
 - [ ] ☁️ 57 > [Identity,Authentication and Authorization](Journey/057/Readme.md)
-- [ ] ☁️ 58 > [](Journey/058/Readme.md)
+- [ ] ☁️ 58 > [Types of Servers](Journey/058/Readme.md)
 - [ ] ☁️ 59 > [](Journey/059/Readme.md)
 - [ ] ☁️ 60 > [](Journey/060/Readme.md)
 
