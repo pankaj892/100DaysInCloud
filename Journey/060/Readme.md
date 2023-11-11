@@ -1,52 +1,23 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
-
-# New post title here
+# Edge Computing
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
-
-## Prerequisite
-
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+- Today I learned about Edge Computing. Edge computing is a distributed computing paradigm that brings computation and data storage closer to the location where it is needed, to improve response times and save bandwidth.
 
 ## Use Case
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+- Edge computing is used in IoT devices. IoT devices are usually small and have limited computing power. Edge computing allows these devices to perform some of the computation locally and send only the results to the cloud. This reduces the amount of data that needs to be sent to the cloud and reduces the response time.
+
+- Edge computing is also used in autonomous vehicles. Autonomous vehicles need to make decisions in real-time. They cannot afford to wait for the data to be sent to the cloud and then wait for the response. Edge computing allows these vehicles to make decisions locally and send only the results to the cloud.
+
+- Edge computing is also used in the healthcare industry. Edge computing allows healthcare providers to collect data from patients and process it locally. This reduces the amount of data that needs to be sent to the cloud and reduces the response time.
+
+- Edge computing is used in stores to provide personalized recommendations to customers. Edge computing allows stores to collect data from customers and process it locally. This reduces the amount of data that needs to be sent to the cloud and reduces the response time.
 
 ## Cloud Research
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
-
-## Try yourself
-
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
-
-## Next Steps
-
-✍️ Describe what you think you think you want to do next.
+- I went through wikipedia and some articles on edge computing.
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
+[Linkedin](https://www.linkedin.com/feed/update/urn:li:share:7129155587128377344/)
