@@ -1,52 +1,38 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
-
-# New post title here
+# IoT in Cloud
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+- Today I learnt about IoT in Cloud.
 
 ## Prerequisite
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+- Basic knowledge of IoT
+- Basic knowledge of Cloud
+- Basic knowledge of Python
 
 ## Use Case
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+- A good use case for IoT in Cloud is to use it for home automation. You can use it to control your home appliances like lights, fans, ACs, etc. You can also use it to control your home security system like door locks, cameras, etc.
 
 ## Cloud Research
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+- IoT in Cloud is a very vast topic. There are many cloud providers that provide IoT services. Some of them are AWS, Azure, Google Cloud, etc.
+- I read about AWS IoT Core and Azure IoT Hub. Both of them are very similar in terms of functionality. They both provide a way to connect your IoT devices to the cloud and manage them.
+- I also read about AWS IoT Greengrass and Azure IoT Edge.
 
 ## Try yourself
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
+- You can follow the below links to try out IoT in Cloud yourself.
+- [AWS IoT Core](https://aws.amazon.com/iot-core/)
+- [Azure IoT Hub](https://azure.microsoft.com/en-in/services/iot-hub/)
+- [AWS IoT Greengrass](https://aws.amazon.com/iot-greengrass/)
+- [Azure IoT Edge](https://azure.microsoft.com/en-in/services/iot-edge/)
+- [Google Cloud IoT Core](https://cloud.google.com/iot-core)
 
 ## ☁️ Cloud Outcome
 
-✍️ (Result) Describe your personal outcome, and lessons learned.
-
-## Next Steps
-
-✍️ Describe what you think you think you want to do next.
+- I learnt about IoT in Cloud.
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
+[Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7129498077010284544/)
