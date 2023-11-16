@@ -103,7 +103,7 @@ At the end of this challenge I aim to land a cloud engineer role and get certifi
 ## Stumbling through the caves
 
 - [ ] ☁️ 61 > [IoT in Cloud](Journey/061/Readme.md)
-- [ ] ☁️ 62 > [](Journey/062/Readme.md)
+- [ ] ☁️ 62 > [AI in Cloud](Journey/062/Readme.md)
 - [ ] ☁️ 63 > [](Journey/063/Readme.md)
 - [ ] ☁️ 64 > [](Journey/064/Readme.md)
 - [ ] ☁️ 65 > [](Journey/065/Readme.md)
