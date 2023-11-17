@@ -1,52 +1,33 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
-
-# New post title here
+# SaaS - Software as a Service
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+- Today I learnt about SaaS - Software as a Service.
 
 ## Prerequisite
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+- Basic knowledge of Cloud
+- Basic knowledge of Software
 
 ## Use Case
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+- A good use case for SaaS is to use it for email. You can use it to send and receive emails.
+- Another good use case for SaaS is to use it for file sharing. You can use it to share files with others.
 
 ## Cloud Research
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
-
-## Try yourself
-
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
+- I read about AWS SaaS Services and Azure SaaS Services. Both of them are very similar in terms of functionality. They both provide a way to use SaaS.
+- I also read about Google Cloud SaaS Services.
+- I referred to the below links to learn about SaaS.
+- [AWS SaaS Services](https://aws.amazon.com/products/)
+- [Azure SaaS Services](https://azure.microsoft.com/en-in/overview/what-is-saas/)
+- [Google Cloud SaaS Services](https://cloud.google.com/products/saas)
+- [SaaS](https://en.wikipedia.org/wiki/Software_as_a_service)
 
 ## ☁️ Cloud Outcome
 
-✍️ (Result) Describe your personal outcome, and lessons learned.
-
-## Next Steps
-
-✍️ Describe what you think you think you want to do next.
+- I learnt about SaaS.
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
+[Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7130585272362102784/)
