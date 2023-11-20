@@ -14,7 +14,6 @@
 
 - A good use case for databases is to store and retrieve data.
 
-
 ## Cloud Research
 
 - I researched about the different types of databases in the cloud.
@@ -31,7 +30,6 @@
 ## ☁️ Cloud Outcome
 
 - I learned about the different types of databases in the cloud.
-
 
 ## Social Proof
 
