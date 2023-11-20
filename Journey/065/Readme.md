@@ -17,35 +17,22 @@
 
 ## Cloud Research
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+- I researched about the different types of databases in the cloud.
+- I went through the documentation of AWS, Azure and GCP to learn about the different types of databases in the cloud.
+- I referred to the following links:
+  - [AWS](https://aws.amazon.com/products/databases/)
+  - [Azure](https://azure.microsoft.com/en-in/product-categories/databases/)
+  - [GCP](https://cloud.google.com/products/databases)
 
 ## Try yourself
 
 ✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
 
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
 ## ☁️ Cloud Outcome
 
-✍️ (Result) Describe your personal outcome, and lessons learned.
+- I learned about the different types of databases in the cloud.
 
-## Next Steps
-
-✍️ Describe what you think you think you want to do next.
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
+[Linkedin](https://www.linkedin.com/posts/pankaj-biradar_100daysofcloud-clouddatabases-technology-activity-7131302477223624706-F2Vi/)
