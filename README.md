@@ -107,7 +107,7 @@ At the end of this challenge I aim to land a cloud engineer role and get certifi
 - [ ] ☁️ 63 > [SaaS](Journey/063/Readme.md)
 - [ ] ☁️ 64 > [RDP](Journey/064/Readme.md)
 - [ ] ☁️ 65 > [Types of DBs in Cloud](Journey/065/Readme.md)
-- [ ] ☁️ 66 > [](Journey/066/Readme.md)
+- [ ] ☁️ 66 > [Pub/Sub](Journey/066/Readme.md)
 - [ ] ☁️ 67 > [](Journey/067/Readme.md)
 - [ ] ☁️ 68 > [](Journey/068/Readme.md)
 - [ ] ☁️ 69 > [](Journey/069/Readme.md)
