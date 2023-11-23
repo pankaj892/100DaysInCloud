@@ -12,40 +12,29 @@
 
 ## Use Case
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+- Github Actions is a CI/CD tool that is built into Github.
+- It is used to automate the workflow of a project.
+- It is used to build, test, and deploy the project.
 
 ## Cloud Research
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+- I went through the documentation of Github Actions.
+- You can find the documentation [here](https://docs.github.com/en/actions).
 
 ## Try yourself
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
+- You can create a workflow by creating a `.yml` file in the `.github/workflows` directory.
+- You can find the syntax of the `.yml` file [here](https://docs.github.com/en/actions/reference/workflow-syntax-for-github-actions).
+- Github Actions uses `runners` to run the workflow.
+- You can find the documentation of runners [here](https://docs.github.com/en/actions/using-github-hosted-runners/about-github-hosted-runners).
+- You can learn from the official Github Actions course [here](https://lab.github.com/githubtraining/github-actions:-hello-world).
 
 ## ☁️ Cloud Outcome
 
-✍️ (Result) Describe your personal outcome, and lessons learned.
-
-## Next Steps
-
-✍️ Describe what you think you think you want to do next.
+- I learned about Github Actions.
+- I learned how to create a workflow.
+- I used it to automate my profile readme.
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
+[Linkedin](https://www.linkedin.com/posts/pankaj-biradar_100daysofcloud-githubactions-automation-activity-7132019704642097152-tr2A)
