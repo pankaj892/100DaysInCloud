@@ -111,7 +111,7 @@ At the end of this challenge I aim to land a cloud engineer role and get certifi
 - [ ] ☁️ 67 > [Github Actions](Journey/067/Readme.md)
 - [ ] ☁️ 68 > [Billing in the Cloud](Journey/068/Readme.md)
 - [ ] ☁️ 69 > [Auto-Scaling](Journey/069/Readme.md)
-- [ ] ☁️ 70 > [](Journey/070/Readme.md)
+- [ ] ☁️ 70 > [Load Balancers](Journey/070/Readme.md)
 
 ## Resting at the Lagoon
 
