@@ -116,7 +116,7 @@ At the end of this challenge I aim to land a cloud engineer role and get certifi
 ## Resting at the Lagoon
 
 - [ ] ☁️ 71 > [Landing Zone](Journey/071/Readme.md)
-- [ ] ☁️ 72 > [](Journey/072/Readme.md)
+- [ ] ☁️ 72 > [Availability Zone](Journey/072/Readme.md)
 - [ ] ☁️ 73 > [](Journey/073/Readme.md)
 - [ ] ☁️ 74 > [](Journey/074/Readme.md)
 - [ ] ☁️ 75 > [](Journey/075/Readme.md)
