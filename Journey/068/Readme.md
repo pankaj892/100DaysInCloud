@@ -1,52 +1,37 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
-
-# New post title here
+# Billing in the Cloud
 
 ## Introduction
-
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+- Today, we will learn about Billing in the Cloud.
 
 ## Prerequisite
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+- Basic knowledge of Cloud
+- Basic knowledge of Billing
 
 ## Use Case
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+- Billing is an important aspect of the Cloud.
+- It is important to understand how billing works in the Cloud.
+- It is important to understand how to optimize the billing in the Cloud.
+
 
 ## Cloud Research
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+- I went through the documentation of Billing in Azure.
+- You can find the documentation [here](https://docs.microsoft.com/en-us/azure/cost-management-billing/cost-management-billing-overview).
+- I went through the documentation of Billing in GCP.
+- You can find the documentation [here](https://cloud.google.com/billing/docs).
+- I went through the documentation of Billing in AWS.
+- You can find the documentation [here](https://aws.amazon.com/billing/).
 
-## Try yourself
-
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
 
 ## ☁️ Cloud Outcome
 
-✍️ (Result) Describe your personal outcome, and lessons learned.
-
-## Next Steps
-
-✍️ Describe what you think you think you want to do next.
+- I learned about Billing in the Cloud.
+- I learned how to optimize the billing in the Cloud.
+- I learned how to use the billing tools in the Cloud.
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
 
-[link](link)
+[Linkedin](https://www.linkedin.com/posts/pankaj-biradar_100daysofcloud-cloudbilling-payasyougo-activity-7132374535936339968-IsGn/)
