@@ -1,52 +1,43 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
-
-# New post title here
+# Auto-Scaling
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+- Today, we will learn about Auto-Scaling.
+- Auto-Scaling refers to the ability of a system to scale itself up or down based on the current load.
 
 ## Prerequisite
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+- Basic knowledge of Cloud
+- Basic knowledge of Auto-Scaling
 
 ## Use Case
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+- Auto-Scaling is an important aspect of the Cloud.
+- It is important to understand how to optimize the Auto-Scaling in the Cloud.
+- A lot of companies use Auto-Scaling in the Cloud.
+- A good use case of Auto-Scaling is when you have a website that has a lot of traffic during the day and less traffic during the night.
+- In this case, you can use Auto-Scaling to scale up your website during the day and scale down your website during the night.
 
 ## Cloud Research
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+- I went through the documentation of Auto-Scaling in Azure.
+- You can find the documentation [here](https://docs.microsoft.com/en-us/azure/azure-monitor/essentials/autoscale-get-started).
+- I went through the documentation of Auto-Scaling in GCP.
+- You can find the documentation [here](https://cloud.google.com/compute/docs/autoscaler).
+- I went through the documentation of Auto-Scaling in AWS.
+- You can find the documentation [here](https://docs.aws.amazon.com/autoscaling/ec2/userguide/what-is-amazon-ec2-auto-scaling.html).
 
 ## Try yourself
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
+- You can try Auto-Scaling in Azure.
+- Refer to the Micrsoft Learn module [here](https://docs.microsoft.com/en-us/learn/modules/autoscale-virtual-machines-scale-sets/).
 
 ## ☁️ Cloud Outcome
 
-✍️ (Result) Describe your personal outcome, and lessons learned.
-
-## Next Steps
-
-✍️ Describe what you think you think you want to do next.
+- I learned about Auto-Scaling in the Cloud.
+- I learned how to optimize the Auto-Scaling in the Cloud.
+- I learned how to use the Auto-Scaling tools in the Cloud.
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
+[Linkedin](https://www.linkedin.com/posts/pankaj-biradar_100daysofcloud-autoscaling-cloudcomputing-activity-7132736939136282624-815Z)
