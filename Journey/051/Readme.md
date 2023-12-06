@@ -38,4 +38,4 @@
 
 ## Social Proof
 
-[link](https://www.linkedin.com/feed/update/urn:li:activity:7125853005387616256/)
+[Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7125853005387616256/)
