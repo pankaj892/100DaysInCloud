@@ -1,52 +1,33 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
-
-# New post title here
+# Landing Zone
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+- Today, I will be learning about Landing Zone.
+- A landing zone is a set of resources that are deployed to a subscription to provide a foundation to build and run workloads.
 
 ## Prerequisite
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+- Basic understanding of Cloud Computing
 
 ## Use Case
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+- A good use case for Landing Zone is to deploy a set of resources that are required to build and run workloads.
+- A good example of this is deploying a set of resources that are required to build and run a web application.
 
 ## Cloud Research
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+- I went through the documentation on Landing Zone in Azure and learned how to create a Landing Zone in Azure.
+- I also learned how to deploy a set of resources that are required to build and run a web application.
 
 ## Try yourself
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
+- [Create a Landing Zone using the Azure portal](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/)
+- [Deploy a set of resources that are required to build and run a web application](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/implementation)
 
 ## ☁️ Cloud Outcome
 
-✍️ (Result) Describe your personal outcome, and lessons learned.
-
-## Next Steps
-
-✍️ Describe what you think you think you want to do next.
+- I was able to create a Landing Zone in Azure and deploy a set of resources that are required to build and run a web application.
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
+[LinkedIn](https://www.linkedin.com/posts/pankaj-biradar_100daysofcloud-learning-cloudcomputing-activity-7133469293446402048-o5c9)
