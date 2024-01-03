@@ -57,4 +57,4 @@ az network nsg rule create \
 
 ✍️ Show that you shared your process on Twitter or LinkedIn
 
-[link](https://www.linkedin.com/feed/update/urn:li:activity:7113925297409835008/)
+[LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7113925297409835008/)

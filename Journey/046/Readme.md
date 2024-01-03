@@ -36,4 +36,4 @@
 
 ✍️ Show that you shared your process on Twitter or LinkedIn
 
-[link](https://www.linkedin.com/feed/update/urn:li:share:7114273439888146432/)
+[LinkedIn](https://www.linkedin.com/feed/update/urn:li:share:7114273439888146432/)
