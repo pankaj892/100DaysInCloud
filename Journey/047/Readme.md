@@ -64,6 +64,4 @@ az network lb create \
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](https://www.linkedin.com/feed/update/urn:li:share:7115007365594152960/)
+[Linkedin](https://www.linkedin.com/feed/update/urn:li:share:7115007365594152960/)
