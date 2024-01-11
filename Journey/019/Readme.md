@@ -25,6 +25,4 @@
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](https://www.linkedin.com/posts/pankaj-biradar_100daysofcloud-kubernetes-architecture-activity-7085287664505032704-MGkq/)
+[Linkedin](https://www.linkedin.com/posts/pankaj-biradar_100daysofcloud-kubernetes-architecture-activity-7085287664505032704-MGkq/)
