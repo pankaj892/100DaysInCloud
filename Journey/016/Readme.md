@@ -5,6 +5,4 @@ I started off with Azure and as mentioned in my previous day I created a CI/CD p
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](https://www.linkedin.com/feed/update/urn:li:share:7049786522786557952/)
+[Linkedin](https://www.linkedin.com/feed/update/urn:li:share:7049786522786557952/)
