@@ -11,6 +11,4 @@ Here are some of the projects I made:
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](https://www.linkedin.com/feed/update/urn:li:share:7038506906918821888/)
+[Linekdin](https://www.linkedin.com/feed/update/urn:li:share:7038506906918821888/)
