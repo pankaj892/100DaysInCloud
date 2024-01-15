@@ -34,6 +34,4 @@ can follow this [video](https://www.youtube.com/watch?v=ieYrBWmkfno) to get star
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](https://www.linkedin.com/posts/pankaj-biradar_github-pankaj892az-resume-my-resume-hosted-activity-7041085125773709312-vWFx?utm_source=share&utm_medium=member_desktop)
+[Linkedin](https://www.linkedin.com/posts/pankaj-biradar_github-pankaj892az-resume-my-resume-hosted-activity-7041085125773709312-vWFx?utm_source=share&utm_medium=member_desktop)
