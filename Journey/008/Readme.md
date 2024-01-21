@@ -9,6 +9,4 @@ Now will move to networking in the coming days.
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](https://www.linkedin.com/feed/update/urn:li:share:7017888038571692032/)
+[Linkedin](https://www.linkedin.com/feed/update/urn:li:share:7017888038571692032/)
