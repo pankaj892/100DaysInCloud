@@ -38,6 +38,4 @@ kubectl port-forward nginx 8080:80 --namespace=dev
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](https://www.linkedin.com/feed/update/urn:li:share:7094725356472995840/)
+[Linkedin](https://www.linkedin.com/feed/update/urn:li:share:7094725356472995840/)
