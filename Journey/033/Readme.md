@@ -36,6 +36,4 @@ You can find the latest version of the ingress controller [here](https://kuberne
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](https://www.linkedin.com/posts/pankaj-biradar_100daysofcloud-kubernetes-ingresscontrollers-activity-7096543982213623808-R5Bc/)
+[Linkedin](https://www.linkedin.com/posts/pankaj-biradar_100daysofcloud-kubernetes-ingresscontrollers-activity-7096543982213623808-R5Bc/)
