@@ -11,4 +11,4 @@ Here are some of the projects I made:
 
 ## Social Proof
 
-[Linekdin](https://www.linkedin.com/feed/update/urn:li:share:7038506906918821888/)
+[Linkedin](https://www.linkedin.com/feed/update/urn:li:share:7038506906918821888/)
