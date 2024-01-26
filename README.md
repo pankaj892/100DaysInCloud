@@ -118,7 +118,7 @@ At the end of this challenge I aim to land a cloud engineer role and get certifi
 - [ ] ☁️ 71 > [Landing Zone](Journey/071/Readme.md)
 - [ ] ☁️ 72 > [Availability Zone](Journey/072/Readme.md)
 - [ ] ☁️ 73 > [Landing Zone Vs Availability Zone](Journey/073/Readme.md)
-- [ ] ☁️ 74 > [](Journey/074/Readme.md)
+- [ ] ☁️ 74 > [TLS](Journey/074/Readme.md)
 - [ ] ☁️ 75 > [](Journey/075/Readme.md)
 - [ ] ☁️ 76 > [](Journey/076/Readme.md)
 - [ ] ☁️ 77 > [](Journey/077/Readme.md)
