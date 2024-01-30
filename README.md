@@ -17,7 +17,7 @@ Hello I am Pankaj a Software Engineer and currently interested in becoming a clo
 
 I am starting this cloud journey to become efficient not just at one cloud but understand others as well and also master my linux and networking skills and also create projects to get a more hands-on feel of the cloud☁️.
 
-At the end of this challenge I aim to land a cloud engineer role and get certified in AZ-104 and AZ-400 
+At the end of this challenge I aim to land a cloud engineer role and get certified.
 
 
 - [Link to my LinkedIn profile](https://www.linkedin.com/in/pankaj-biradar)
