@@ -8,6 +8,4 @@ I created 2 VMs on GCP and installed kubectl on both of them. I created a cluste
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](https://www.linkedin.com/feed/update/urn:li:share:7085652803326529536/)
+[Linkedin](https://www.linkedin.com/feed/update/urn:li:share:7085652803326529536/)
