@@ -8,6 +8,4 @@ A good example of a secret is a database password. You don't want to store the p
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](https://www.linkedin.com/posts/pankaj-biradar_100daysofcloud-kubernetes-secrets-activity-7090742670259585024-JVnu)
+[Linkedin](https://www.linkedin.com/posts/pankaj-biradar_100daysofcloud-kubernetes-secrets-activity-7090742670259585024-JVnu)
