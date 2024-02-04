@@ -20,6 +20,4 @@ spec:
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](https://www.linkedin.com/feed/update/urn:li:share:7091830089411145728/)
+[Linkedin](https://www.linkedin.com/feed/update/urn:li:share:7091830089411145728/)
