@@ -47,6 +47,4 @@ helm install my-nginx stable/nginx-ingress
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](https://www.linkedin.com/feed/update/urn:li:share:7098342291798446080/)
+[Linkedin](https://www.linkedin.com/feed/update/urn:li:share:7098342291798446080/)
