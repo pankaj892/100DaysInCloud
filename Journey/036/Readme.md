@@ -54,6 +54,4 @@ spec:
 - I learned how to set the security context for a pod and for a container in the pod using the `securityContext` field
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](https://www.linkedin.com/feed/update/urn:li:share:7099433191286968320/)
+[Linkedin](https://www.linkedin.com/feed/update/urn:li:share:7099433191286968320/)
