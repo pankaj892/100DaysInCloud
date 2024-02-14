@@ -32,6 +32,4 @@
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](https://www.linkedin.com/feed/update/urn:li:share:7102350967785869313/)
+[Linkedin](https://www.linkedin.com/feed/update/urn:li:share:7102350967785869313/)
