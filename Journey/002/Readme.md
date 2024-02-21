@@ -27,4 +27,4 @@ I will learn more commands to use with linux and get a more hands-on approach
 
 ## Social Proof
 
-[link](https://www.linkedin.com/feed/update/urn:li:share:7015699507938033664/)
+[Linkedin](https://www.linkedin.com/feed/update/urn:li:share:7015699507938033664/)
