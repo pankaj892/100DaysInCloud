@@ -1,52 +1,37 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
-
-# New post title here
+# SSL
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+- SSL (Secure Sockets Layer) is the standard security technology for establishing an encrypted link between a web server and a browser. This link ensures that all data passed between the web server and browsers remain private and integral. SSL is an industry standard and is used by millions of websites in the protection of their online transactions with their customers.
 
 ## Prerequisite
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+- Basic knowledge of web servers and browsers.
 
 ## Use Case
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+- A good use case would be to secure a website that has a login page, or a website that collects user data.
+- When you want a secure connection between your web server and the browser.
 
 ## Cloud Research
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+- I followed the steps in the [link](https://www.ssl.com/how-to/install-ssl-certificate/install-ssl-certificate-nginx/) to install an SSL certificate on an Nginx server.
+- You can also use [Let's Encrypt](https://letsencrypt.org/) to get a free SSL certificate.
+- I also learned about the different types of SSL certificates, such as:
+  - Domain Validation (DV)
+  - Organization Validation (OV)
+  - Extended Validation (EV)
+- I researched a bit about the SSL handshake process and how it works.
 
 ## Try yourself
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
+- You can follow this tutorial from [DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-create-a-self-signed-ssl-certificate-for-nginx-in-ubuntu-18-04) to create a self-signed SSL certificate for Nginx.
+- You can try this tutorial from AWS to [install an SSL certificate on an EC2 instance](https://aws.amazon.com/premiumsupport/knowledge-center/ssl-ec2-instance/).
 
 ## ☁️ Cloud Outcome
 
-✍️ (Result) Describe your personal outcome, and lessons learned.
-
-## Next Steps
-
-✍️ Describe what you think you think you want to do next.
+- I was able to install an SSL certificate on an Nginx server.
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
+[Linkedin](https://www.linkedin.com/posts/pankaj-biradar_100daysofcloud-ssl-security-activity-7134926347486855168-sWR-)
