@@ -8,6 +8,4 @@ I have a git client and I do pushing my git repos to github using it but while u
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](https://www.linkedin.com/feed/update/urn:li:share:7017524623361662976)
+[Linkedin](https://www.linkedin.com/feed/update/urn:li:share:7017524623361662976)
