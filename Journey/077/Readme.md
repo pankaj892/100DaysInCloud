@@ -1,52 +1,44 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
-
-# New post title here
+# MicroService Architecture
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+Microservice architecture is a design pattern that structures an application as a collection of loosely coupled services, which implement business capabilities. The microservice architecture enables the rapid, frequent and reliable delivery of large, complex applications. It also enables an organization to evolve its technology stack.
 
 ## Prerequisite
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+- Basic understanding of cloud computing
+- Basic understanding of software development
 
 ## Use Case
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+- Microservice architecture is used to build large, complex applications that can be easily maintained and scaled.
+- A good example of microservice architecture is Netflix. Netflix has a large number of microservices that work together to provide a seamless streaming experience to its users.
+- Another use case would be a large e-commerce platform like Amazon. Amazon has a large number of microservices that work together to provide a seamless shopping experience to its users.
 
 ## Cloud Research
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+- I referred to the [Microsoft documentation](https://docs.microsoft.com/en-us/azure/architecture/guide/architecture-styles/microservices) to understand the microservice architecture.
+- I also referred to the [AWS documentation](https://aws.amazon.com/microservices/) to understand the microservice architecture.
+- I also referred to the [Google Cloud documentation](https://cloud.google.com/solutions/microservices) to understand the microservice architecture.
 
 ## Try yourself
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
+- You can try building a simple microservice application using any cloud provider. You can use the following steps to build a simple microservice application:
+  - Create a simple web application using any programming language.
+  - Create a simple REST API using any programming language.
+  - Deploy the web application and the REST API as separate microservices on any cloud provider.
 
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
+- You can also try building a simple microservice application using a container orchestration tool like Kubernetes. You can use the following steps to build a simple microservice application using Kubernetes:
+  - Create a simple web application using any programming language.
+  - Create a simple REST API using any programming language.
+  - Create a Docker image for the web application and the REST API.
+  - Deploy the web application and the REST API as separate microservices on Kubernetes.
+  
 ## ☁️ Cloud Outcome
 
-✍️ (Result) Describe your personal outcome, and lessons learned.
-
-## Next Steps
-
-✍️ Describe what you think you think you want to do next.
+- I have a better understanding of the microservice architecture.
+- I have a better understanding of how to build a simple microservice application using any cloud provider.
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
+[Linkedin](https://www.linkedin.com/posts/pankaj-biradar_100daysofcloud-microservicearchitecture-learning-activity-7135651141060624385-y01R)
