@@ -1,52 +1,33 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
-
-# New post title here
+# Monoliths vs Microservices
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+- Monoliths are large, complex applications that are built as a single unit. They are typically built using a single programming language and a single database.
+- Microservices are small, independent services that work together to provide the functionality of a large, complex application. They are typically built using multiple programming languages and databases.
 
 ## Prerequisite
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+- Basic understanding of cloud computing
+- Basic understanding of software development
 
 ## Use Case
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+- Monoliths are used to build large, complex applications that can be easily maintained and scaled.
+- A good example of a monolith is a large e-commerce platform like Amazon. Amazon has a large, complex application that is built as a single unit. 
+- Microservices are used to build large, complex applications that can be easily maintained and scaled.
+- A good example of microservice architecture is Netflix. Netflix has a large number of microservices that work together to provide a seamless streaming experience to its users.
 
 ## Cloud Research
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
-
-## Try yourself
-
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
+- I referred to the [Microsoft documentation](https://docs.microsoft.com/en-us/azure/architecture/guide/architecture-styles/microservices) to understand the microservice architecture.
+- I also referred to documentation for monoliths on Wikipedia to understand the monolith architecture.
+- I also referred to the [AWS documentation](https://aws.amazon.com/microservices/) to understand the microservice architecture.
 
 ## ☁️ Cloud Outcome
 
-✍️ (Result) Describe your personal outcome, and lessons learned.
-
-## Next Steps
-
-✍️ Describe what you think you think you want to do next.
+- I have a better understanding of the monolith and microservice architecture.
+- I have a better understanding of how to build a simple monolith and microservice application using any cloud provider.
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
+[Linkedin](https://www.linkedin.com/posts/pankaj-biradar_100daysofcloud-monolithvsmicroservice-softwareengineering-activity-7136013508231528452-H7RR)
