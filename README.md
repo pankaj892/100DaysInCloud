@@ -121,7 +121,7 @@ At the end of this challenge I aim to land a cloud engineer role and get certifi
 - [ ] ☁️ 74 > [TLS](Journey/074/Readme.md)
 - [ ] ☁️ 75 > [SSL](Journey/075/Readme.md)
 - [ ] ☁️ 76 > [Monoliths](Journey/076/Readme.md)
-- [ ] ☁️ 77 > [](Journey/077/Readme.md)
+- [ ] ☁️ 77 > [Microservices](Journey/077/Readme.md)
 - [ ] ☁️ 78 > [](Journey/078/Readme.md)
 - [ ] ☁️ 79 > [](Journey/079/Readme.md)
 - [ ] ☁️ 80 > [](Journey/080/Readme.md)
